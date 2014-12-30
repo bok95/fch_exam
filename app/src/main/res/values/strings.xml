@@ -4,5 +4,7 @@
     <string name="app_name">FacebookChatHead</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="start_fch">Start FaceBookChatHead</string>
+    <string name="end_fch">End FaceBookChatHead</string>
 
 </resources>
